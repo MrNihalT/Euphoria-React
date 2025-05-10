@@ -1,0 +1,453 @@
+{
+    "home_page": {
+        "slider_items": [
+            {
+                "background_image": "bg-1.jpg",
+                "heading": "Summer Collection",
+                "types": ["Casual Wear", "Denim Jackets", "Sneakers"],
+                "trend": ["Rugged", "Stylish"]
+            },
+            {
+                "background_image": "bg-2.jpg",
+                "heading": "Summer Collection",
+                "types": ["T-Shirts", "Shorts", "Linen Shirts"],
+                "trend": ["Breezy", "Lightweight"]
+            }
+        ]
+    },
+
+    "offer_page": {
+        "low_price_items": [
+            {
+                "heading": "High Coziness",
+                "subheading": "Low Price",
+                "offer": "UPTO 50% OFF",
+                "background_image": "bg-1.jpg"
+            }
+        ],
+        "Beyoung_Presents": [
+            {
+                "heading": "Breezy Summer Style",
+                "subheading": "Beyoung Presents",
+                "offer": "UPTO 50% OFF",
+                "background_image": "bg-2.jpg"
+            }
+        ]
+    },
+
+    "new_arrivals": [
+        { "id": 1, "name": "Knitted Joggers", "image": "img-1.jpg" },
+        { "id": 2, "name": "Full Sleeve", "image": "img-2.jpg" },
+        { "id": 3, "name": "Active T-Shirts", "image": "img-3.jpg" },
+        { "id": 4, "name": "Urban Shirts", "image": "img-4.jpg" },
+        { "id": 5, "name": "Active T-Shirts", "image": "img-5.jpg" },
+        { "id": 6, "name": "Urban T-Shirts", "image": "img-6.jpg" },
+        { "id": 7, "name": "German Shirts", "image": "img-7.jpg" },
+        { "id": 8, "name": "Urban T-Shirts", "image": "img-8.jpg" }
+    ],
+    "brands": [
+        { "id": 301, "name": "Nike", "image": "nike.svg" },
+        { "id": 302, "name": "H&M", "image": "H&M.svg" },
+        { "id": 303, "name": "Levis", "image": "levis.svg" },
+        { "id": 304, "name": "USPA", "image": "USPA.svg" },
+        { "id": 305, "name": "Puma", "image": "puma.svg" }
+    ],
+    "categories": {
+        "men": [
+            {
+                "id": 101,
+                "type": "Shirts",
+                "name": "Raven Hoodie",
+                "brand": "Nike",
+                "rating": 4,
+                "comments_count": 45,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 63.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-5.jpg",
+                "model": {
+                    "fabric": "Bio-washed Cotton",
+                    "pattern": "Printed",
+                    "Fit": "Regular-Fit",
+                    "Neck": "Round Neck",
+                    "Sleeve": "Half Sleeve",
+                    "Style": "Casual Wear"
+                }
+            },
+            {
+                "id": 102,
+                "type": "Printed T-Shirts",
+                "name": "Sulaiman Hoodie",
+                "brand": "H&M",
+                "rating": 1,
+                "comments_count": 36,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "yellow", "red", "purple"],
+                "price": 67.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-6.jpg",
+                "model": {
+                    "fabric": "Bio-washed Cotton",
+                    "pattern": "Printed",
+                    "Fit": "Regular-Fit",
+                    "Neck": "Round Neck",
+                    "Sleeve": "Half Sleeve",
+                    "Style": "Casual Wear"
+                }
+            },
+            {
+                "id": 103,
+                "type": "Plain T-Shirt",
+                "name": "Indian Hoodie",
+                "brand": "Levis",
+                "rating": 5,
+                "comments_count": 25,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 64.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-7.jpg",
+                "model": {
+                    "fabric": "Bio-washed Cotton",
+                    "pattern": "Printed",
+                    "Fit": "Regular-Fit",
+                    "Neck": "Round Neck",
+                    "Sleeve": "Half Sleeve",
+                    "Style": "Casual Wear"
+                }
+            },
+            {
+                "id": 104,
+                "type": "Polo T-Shirt",
+                "name": "Kerala Hoodie",
+                "brand": "USPA",
+                "rating": 3.5,
+                "comments_count": 14,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 43.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-8.jpg",
+                "model": {
+                    "fabric": "Rayon",
+                    "pattern": "Floral",
+                    "Fit": "Relaxed-Fit",
+                    "Neck": "V-Neck",
+                    "Sleeve": "Sleeveless",
+                    "Style": "Beach Wear"
+                }
+            },
+            {
+                "id": 105,
+                "type": "Hoodies & Sweetshirt",
+                "name": "Calicut Hoodie",
+                "brand": "Puma",
+                "rating": 4.5,
+                "comments_count": 36,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 73.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-9.jpg",
+                "model": {
+                    "fabric": "Polyester",
+                    "pattern": "Striped",
+                    "Fit": "Body-Fit",
+                    "Neck": "Scoop Neck",
+                    "Sleeve": "Cap Sleeve",
+                    "Style": "Party Wear"
+                }
+            },
+            {
+                "id": 106,
+                "type": "Jeans",
+                "name": "Fuark Hoodie",
+                "brand": "Jhanvi Brand",
+                "rating": 2,
+                "comments_count": 24,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 93.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-10.jpg",
+                "model": {
+                    "fabric": "Denim",
+                    "pattern": "Washed",
+                    "Fit": "Straight-Fit",
+                    "Neck": "Collared",
+                    "Sleeve": "Short Sleeve",
+                    "Style": "Casual Wear"
+                }
+            },
+            {
+                "id": 107,
+                "type": "Activewear",
+                "name": "Gym Hoodie",
+                "brand": "Abibas",
+                "rating": 5,
+                "comments_count": 75,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 56.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-1.jpg",
+                "model": {
+                    "fabric": "Silk Blend",
+                    "pattern": "Embroidered",
+                    "Fit": "Tailored-Fit",
+                    "Neck": "Boat Neck",
+                    "Sleeve": "3/4 Sleeve",
+                    "Style": "Festive Wear"
+                }
+            },
+            {
+                "id": 108,
+                "type": "Boxers",
+                "name": "American Hoodie",
+                "brand": "Adidas",
+                "rating": 2.5,
+                "comments_count": 85,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Green", "Grey", "Navy_Blue", "Olive_Green"],
+                "price": 69.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-11.jpg",
+                "model": {
+                    "fabric": "Pure Cotton",
+                    "pattern": "Checked",
+                    "Fit": "Slim-Fit",
+                    "Neck": "Henley",
+                    "Sleeve": "Full Sleeve",
+                    "Style": "Everyday Wear"
+                }
+            }
+        ],
+        "women": [
+            {
+                "id": 201,
+                "name": "Dubai & Sweetshirt",
+                "brand": "Nike",
+                "rating": 4,
+                "comments_count": 14,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 89.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-12.jpg",
+                "model": {
+                    "fabric": "Chiffon",
+                    "pattern": "Floral",
+                    "Fit": "A-Line Fit",
+                    "Neck": "V-Neck",
+                    "Sleeve": "Flutter Sleeve",
+                    "Style": "Casual Day Out"
+                }
+            },
+            {
+                "id": 202,
+                "name": "Coats & Parkas",
+                "brand": "H&M",
+                "rating": 1.5,
+                "comments_count": 47,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 40.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-13.jpg",
+                "model": {
+                    "fabric": "Silk Blend",
+                    "pattern": "Embroidered",
+                    "Fit": "Regular Fit",
+                    "Neck": "Boat Neck",
+                    "Sleeve": "3/4 Sleeve",
+                    "Style": "Festive Wear"
+                }
+            },
+            {
+                "id": 203,
+                "name": "Tees & T-Shirt",
+                "brand": "Levis",
+                "rating": 3.5,
+                "comments_count": 69,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 88.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-14.jpg",
+                "model": {
+                    "fabric": "Cotton",
+                    "pattern": "Printed",
+                    "Fit": "Straight Fit",
+                    "Neck": "Round Neck",
+                    "Sleeve": "Short Sleeve",
+                    "Style": "Everyday Wear"
+                }
+            },
+            {
+                "id": 204,
+                "name": "Boxers",
+                "brand": "USPA",
+                "rating": 2,
+                "comments_count": 58,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 77.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "image": "img-15.jpg",
+                "model": {
+                    "fabric": "Georgette",
+                    "pattern": "Solid",
+                    "Fit": "Fit & Flare",
+                    "Neck": "Sweetheart Neck",
+                    "Sleeve": "Sleeveless",
+                    "Style": "Party Wear"
+                }
+            }
+        ]
+    },
+
+    "the_limelight": {
+        "featured_items": [
+            {
+                "id": 109,
+                "name": "Black Sweatshirt with....",
+                "brand": "Jhanvi Brand",
+                "image": "img-16.png",
+                "rating": 5,
+                "comments_count": 85,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 250.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "model": {
+                    "fabric": "Premium Cotton",
+                    "pattern": "Minimalist Print",
+                    "Fit": "Tapered Fit",
+                    "Neck": "Mandarin Collar",
+                    "Sleeve": "Full Sleeve",
+                    "Style": "Urban Casual"
+                }
+            },
+            {
+                "id": 110,
+                "name": "line Pattern Black H...",
+                "brand": "AS's Brand",
+                "image": "img-17.jpg",
+                "rating": 4,
+                "comments_count": 77,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 150.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "model": {
+                    "fabric": "Premium Cotton",
+                    "pattern": "Minimalist Print",
+                    "Fit": "Tapered Fit",
+                    "Neck": "Mandarin Collar",
+                    "Sleeve": "Full Sleeve",
+                    "Style": "Urban Casual"
+                }
+            },
+            {
+                "id": 111,
+                "name": "Black Shorts",
+                "brand": "MM's brand",
+                "image": "img-18.jpg",
+                "rating": 3,
+                "comments_count": 25,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 350.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "model": {
+                    "fabric": "Silk Satin",
+                    "pattern": "Ombre",
+                    "Fit": "Bodycon Fit",
+                    "Neck": "Cowl Neck",
+                    "Sleeve": "Sleeveless",
+                    "Style": "Red Carpet"
+                }
+            },
+            {
+                "id": 112,
+                "name": "Levender Hoodie with...",
+                "brand": "Nike's Brand",
+                "image": "img-19.jpg",
+                "rating": 2,
+                "comments_count": 40,
+                "size": ["S", "M", "L", "XL"],
+                "colors": ["Pink", "Blue", "White", "Black"],
+                "price": 450.0,
+                "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+                "model": {
+                    "fabric": "Organic Linen",
+                    "pattern": "Striped",
+                    "Fit": "Boxy Fit",
+                    "Neck": "Crew Neck",
+                    "Sleeve": "Half Sleeve",
+                    "Style": "Eco Chic"
+                }
+            }
+        ]
+    },
+
+    "reviews": [
+        {
+            "user": "Floyd Miles",
+            "rating": 4.5,
+            "image": "span-1.svg",
+            "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Sophia",
+            "rating": 4,
+            "image": "span-1.svg",
+            "comment": "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Ronald Richards",
+            "rating": 4,
+            "image": "span-2.svg",
+            "comment": "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Savannah Nguyen",
+            "rating": 4.5,
+            "image": "span-3.svg",
+            "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+
+        {
+            "user": "Darlene Robertson",
+            "rating": 4.5,
+            "image": "span-2.svg",
+            "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Cody Fisher",
+            "rating": 4.5,
+            "image": "span-1.svg",
+            "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Cameron Williamson",
+            "rating": 4,
+            "image": "span-3.svg",
+            "comment": "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+
+        {
+            "user": "Esther Howard",
+            "rating": 4.5,
+            "image": "span-3.svg",
+            "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "user": "Jerome Bell",
+            "rating": 4,
+            "image": "span-2.svg",
+            "comment": "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+    ]
+}
