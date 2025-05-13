@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Euphoria-React/static/css/main.43e16b14.css",
-    "main.js": "/Euphoria-React/static/js/main.86c08005.js",
+    "main.js": "/Euphoria-React/static/js/main.9e126919.js",
     "static/js/453.1c3f4b03.chunk.js": "/Euphoria-React/static/js/453.1c3f4b03.chunk.js",
     "static/media/bg-3.jpg": "/Euphoria-React/static/media/bg-3.e659d192f4dca264c647.jpg",
     "static/media/bg-2.jpg": "/Euphoria-React/static/media/bg-2.106d1cb97828f5604f2d.jpg",
@@ -79,11 +79,11 @@
     "static/media/facebook.svg": "/Euphoria-React/static/media/facebook.ba78e21e1c295caeda10dba71cd102ac.svg",
     "static/media/star.svg": "/Euphoria-React/static/media/star.e7a87a14af974b347340.svg",
     "main.43e16b14.css.map": "/Euphoria-React/static/css/main.43e16b14.css.map",
-    "main.86c08005.js.map": "/Euphoria-React/static/js/main.86c08005.js.map",
+    "main.9e126919.js.map": "/Euphoria-React/static/js/main.9e126919.js.map",
     "453.1c3f4b03.chunk.js.map": "/Euphoria-React/static/js/453.1c3f4b03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43e16b14.css",
-    "static/js/main.86c08005.js"
+    "static/js/main.9e126919.js"
   ]
 }
